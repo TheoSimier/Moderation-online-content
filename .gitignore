@@ -1,0 +1,25 @@
+.ipynb_checkpoints/
+venv
+.idea
+do_not_save
+Theo Simier - Master Project.docx
+aclImdb/
+aclImdb_v1.tar/
+Sources
+screenshot
+quora-insincere-questions-classification-zip.zip
+quora-insincere-questions-classification/embeddings/
+quora-insincere-questions-classification
+train_more_100_mo.csv
+glove.6B.zip
+glove.6B.50d.txt.word2vec
+word2vec.txt
+glove.6B.50d.txt
+images/
+instruction_master_project.pdf
+sample_submission.csv
+test.csv
+train_less_100_mo.csv
+~$eo Simier - Master Project.docx
+
+
